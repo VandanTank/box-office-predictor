@@ -20,7 +20,7 @@ Add more features like genre, actors, and marketing spend.
 Experiment with deep learning models.
 
 🤝 Contributing
-Feel free to fork this repository, make improvements, and submit pull requests!
+Feel free to fork this repository, make improvements, and submit pull requests!!
 
 📜 License
 This project is licensed under the MIT License.
