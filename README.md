@@ -24,3 +24,8 @@ Feel free to fork this repository, make improvements, and submit pull requests!!
 
 📜 License
 This project is licensed under the MIT License.
+
+## Future Improvements
+- Implement advanced machine learning models for better revenue predictions.
+- Add a web-based interface for user-friendly interactions.
+- Include more features like genre, director, and cast influence on revenue.
